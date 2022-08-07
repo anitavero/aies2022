@@ -1,7 +1,7 @@
 # AIES 2022
 
 Statistics on what parts of the world were represented at the [Artificial Intelligence, Ethics, and Society 2022](https://www.aies-conference.com/2022/) conference.
-See my [blog post]() on a summary of the conference and the discussions of these statistics.
+See my [blog post](https://anilill.medium.com/ai-ethics-and-layers-of-biases-29756f39ea4e) on a summary of the conference and the discussions of these statistics.
 
 ---
 ## Data
