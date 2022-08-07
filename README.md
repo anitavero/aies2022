@@ -20,7 +20,7 @@ Manually collected data of authors and organisations can be found in the csv fil
 
 ---
 
-## Useful links of audit tools
+## Useful Audit Tools
 From Deborah Raji's [invited talk](https://dl.acm.org/doi/10.1145/3514094.3539566).
 
 ### Audit Accountability Tooling
