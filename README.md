@@ -25,7 +25,7 @@ From Deborah Raji's [invited talk](https://dl.acm.org/doi/10.1145/3514094.353956
 
 ### Audit Accountability Tooling
 - Legal Case Databases: PACER, Government and local databases, FOIAs
-- [Incident Reporting Systems: Artificial Intelligence Incident Database (AID)](https://ojs.aaai.org/index.php/AAAI/article/view/17817) from Georgetown Law, Partnership on Al's Al Incidents Database, AI, Algorithmic and Automation Incident and Controversy Repository (AAAIRC)
+- Incident Reporting Systems: [Artificial Intelligence Incident Database (AID)](https://ojs.aaai.org/index.php/AAAI/article/view/17817) from Georgetown Law, Partnership on Al's Al Incidents Database, AI, Algorithmic and Automation Incident and Controversy Repository (AAAIRC)
 - Algorithmic Transparency Tools: Algorithm Tips, MuckRock Algorithmic Control project
 - Regulatory Monitoring Tools: Parity.ai, Compliance.ai
 
