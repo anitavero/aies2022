@@ -8,7 +8,7 @@ See my [blog post]() on a summary of the conference and the discussions of these
 
 Manually collected data of authors and organisations can be found in the csv files. The data is broken down to 
 - keynote talks: `AIES-2022-keynote.csv`
-- "general" talks: `AIES-2022-lightning-monday.csv`, `AIES-2022-lightning-tuesday.csv`
+- general talks: `AIES-2022-lightning-monday.csv`, `AIES-2022-lightning-tuesday.csv`
 - student talks: `AIES-2022-student-lightning.csv`
 
 `org_country.json` includes the countries of the universities and companies.
