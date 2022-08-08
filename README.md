@@ -24,14 +24,14 @@ Manually collected data of authors and organisations can be found in the csv fil
 From Deborah Raji's [invited talk](https://dl.acm.org/doi/10.1145/3514094.3539566).
 
 ### Audit Accountability Tooling
-- Legal Case Databases: PACER, Government and local databases, FOIAs
-- Incident Reporting Systems: [Artificial Intelligence Incident Database (AID)](https://ojs.aaai.org/index.php/AAAI/article/view/17817) from Georgetown Law, Partnership on Al's Al Incidents Database, AI, Algorithmic and Automation Incident and Controversy Repository (AAAIRC)
-- Algorithmic Transparency Tools: Algorithm Tips, MuckRock Algorithmic Control project
-- Regulatory Monitoring Tools: Parity.ai, Compliance.ai
+- Legal Case Databases: [PACER](https://pacer.uscourts.gov/), Government and local databases, [FOIA](https://www.foia.gov/)s
+- Incident Reporting Systems: [Artificial Intelligence Incident Database (AID)](https://ojs.aaai.org/index.php/AAAI/article/view/17817) from Georgetown Law, Partnership on AI's [AI Incidents Database](https://partnershiponai.org/workstream/ai-incidents-database/), [AI, Algorithmic and Automation Incident and Controversy Repository (AAAIRC)](https://www.aiaaic.org/)
+- Algorithmic Transparency Tools: [Algorithm Tips](http://algorithmtips.org/), [MuckRock Algorithmic Control project](https://www.muckrock.com/assignment/predictive-algorithms-big-data-analytics-and-smart-technologies-deployed-by-governments-in-the-us-241/?flag=null&search=#assignment-responses)
+- Regulatory Monitoring Tools: Parity.ai, [Compliance.ai](https://www.compliance.ai/)
 
 ### Audit Evaluation Tooling
-- Data Donation / Data Scraping Tools: NYU Ad Observatory, Mozilla Rally, The Markup's Citizen Browser, Algorithm Watch, Tracking Exposed
-- Documentation templates: Data sheets, NLP statements, privacy labels, [Model cards](Model), etc.
-- Benchmarks: Pilot Parliaments benchmark, COMPAS dataset, etc.
-- Bias Analysis / Explainability tooling: Facebook's Fairness flow, IBM's AI Fairness 360. etc.
-- Data visualisation: Google's Facets Dive, Language Interpretability Tool (LIT)
+- Data Donation / Data Scraping Tools: [NYU Ad Observatory](https://adobservatory.org/), [Mozilla Rally](https://rally.mozilla.org/), [The Markup's Citizen Browser](https://themarkup.org/citizen-browser), [Algorithm Watch](https://algorithmwatch.org/), [Tracking Exposed](https://tracking.exposed/)
+- Documentation templates: Data sheets, NLP statements, privacy labels, [Model cards](https://arxiv.org/pdf/1810.03993.pdf), etc.
+- Benchmarks: [Pilot Parliaments benchmark](http://gendershades.org/overview.html), [COMPAS dataset](https://www.kaggle.com/datasets/danofer/compass), etc.
+- Bias Analysis / Explainability tooling: [Facebook's Fairness flow](https://ai.facebook.com/blog/how-were-using-fairness-flow-to-help-build-ai-that-works-better-for-everyone/), [IBM's AI Fairness 360](https://arxiv.org/pdf/1810.01943.pdf). etc.
+- Data visualisation: [Google's Facets Dive](https://pair-code.github.io/facets/), [Language Interpretability Tool (LIT)](https://pair-code.github.io/lit/)
