@@ -34,4 +34,4 @@ From Deborah Raji's [invited talk](https://dl.acm.org/doi/10.1145/3514094.353956
 - Documentation templates: Data sheets, NLP statements, privacy labels, [Model cards](https://arxiv.org/pdf/1810.03993.pdf), etc.
 - Benchmarks: [Pilot Parliaments benchmark](http://gendershades.org/overview.html), [COMPAS dataset](https://www.kaggle.com/datasets/danofer/compass), etc.
 - Bias Analysis / Explainability tooling: [Facebook's Fairness flow](https://ai.facebook.com/blog/how-were-using-fairness-flow-to-help-build-ai-that-works-better-for-everyone/), [IBM's AI Fairness 360](https://arxiv.org/pdf/1810.01943.pdf). etc.
-- Data visualisation: [Google's Facets Dive](https://pair-code.github.io/facets/), [Language Interpretability Tool (LIT)](https://pair-code.github.io/lit/)
+- Data visualisation: [Google's Facets Dive](https://pair-code.github.io/facets/), [Language Interpretability Tool (LIT)](https://pair-code.github.io/lit/), [Know Your Data](https://knowyourdata.withgoogle.com/)
